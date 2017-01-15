@@ -4,3 +4,6 @@
 
 2016/
 .gitignore
+2017/
+.DS_STORE
+~*
